@@ -1,0 +1,2 @@
+ArduinoWrapper.cpp:6:7:float mapArduino(float, float, float, float, float)	32	static
+ArduinoWrapper.cpp:10:1:int __io_putchar(int)	16	static

@@ -1,0 +1,34 @@
+core_cm4.h:1939:34:void __NVIC_SystemReset()	4	static,ignoring_inline_asm
+cmath:611:3:constexpr bool std::isnan(float)	16	static
+stn1110.h:283:7:STN1110::STN1110()	16	static
+main.cpp:216:5:int main()	168	static
+main.cpp:594:6:void SystemClock_Config()	88	static
+main.cpp:637:6:void printError(int8_t)	16	static
+main.cpp:675:6:void LogToSDcard()	80	static
+main.cpp:814:6:void LogToSDcard2()	80	static
+main.cpp:953:6:void LogToSDcardError(int8_t)	16	static
+main.cpp:1032:6:void createNewfile()	16	static
+main.cpp:1062:6:void createNewfile2()	16	static
+main.cpp:1094:6:void accelYpAlgorithm()	16	static
+main.cpp:1109:6:void fuelAlgorithm()	16	static
+main.cpp:1140:6:void commandedThrottleActuatorAlgorithm()	24	static
+main.cpp:1199:6:void rpmAlgorithm()	16	static
+main.cpp:1221:6:void efficiencyScoreAlgorithm()	24	static
+main.cpp:1249:6:void efficiencyScoreAlgorithm2()	24	static
+main.cpp:1279:6:void accelXAlgorithm()	16	static
+main.cpp:1301:6:void accelYmAlgorithm()	16	static
+main.cpp:1315:6:void accelYmAlgorithm2()	16	static
+main.cpp:1329:6:void timeAlgorithm()	16	static
+main.cpp:1343:6:void kphrpmAlgorithm()	24	static
+main.cpp:1369:6:void safetyScoreAlgorithm()	16	static
+main.cpp:1397:6:void drivingScoreAlgorithm()	40	static
+main.cpp:1456:6:void averagedrivingScoreAlgorithm()	8	static
+main.cpp:1472:6:void pre_DataUpdate()	8	static
+main.cpp:1507:6:void counterReset()	8	static
+main.cpp:1532:6:bool errorValueReset()	4	static
+main.cpp:1560:6:bool mafRateCheck(float)	16	static
+main.cpp:1572:6:bool Uart6_timeout()	8	static
+main.cpp:1580:6:void flushInputBuff()	16	static
+main.cpp:1596:6:void Error_Handler()	4	static,ignoring_inline_asm
+main.cpp:1605:1:void __static_initialization_and_destruction_0(int, int)	16	static
+main.cpp:1605:1:cpp)	8	static
